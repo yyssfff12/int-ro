@@ -43,3 +43,15 @@ html {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 
 }
+
+.container{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
